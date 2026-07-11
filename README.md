@@ -62,20 +62,20 @@ An interactive dashboard with slicers for **Subscription Status, Gender, Categor
 
 ```
 customer-behavior-segmentation-analysis/
-├── data/
+├── dashboard/
 │   └── customer_shopping_behavior.csv
 ├── notebooks/
 │   └── Customer-Segmentation-and-Purchase-Behavior-Analysis.ipynb
 ├── sql/
 │   └── customer_behavior_analysis.sql
 ├── dashboard/
-│   └── customer_behavior_dashboard.pdf
+│   └── 
 └── README.md
 ```
 
 ## How to Reproduce
 
-1. Clone the repo and install dependencies:
+1. Clone the repo and install dependencies:  customer_behavior_dashboard.pdf
    ```bash
    pip install pandas sqlalchemy psycopg2-binary
    ```
@@ -84,5 +84,7 @@ customer-behavior-segmentation-analysis/
 4. Open `dashboard/customer_behavior_dashboard.pdf` to view the final Power BI dashboard (or connect Power BI Desktop to your PostgreSQL instance to rebuild it live).
 
 ## Author
-
+Lavkush,
 Feel free to connect if you have questions or feedback on this project.
+
+## Linkedin https://www.linkedin.com/in/lavkush2005kumar/
