@@ -63,13 +63,14 @@ An interactive dashboard with slicers for **Subscription Status, Gender, Categor
 ```
 customer-behavior-segmentation-analysis/
 ├── dashboard/
+│   └── customer_behavior_dashboard.pdf
+├── data/
 │   └── customer_shopping_behavior.csv
 ├── notebooks/
 │   └── Customer-Segmentation-and-Purchase-Behavior-Analysis.ipynb
 ├── sql/
 │   └── customer_behavior_analysis.sql
-├── dashboard/
-│   └── 
+├── LICENSE
 └── README.md
 ```
 
